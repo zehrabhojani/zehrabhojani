@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zehra bhojani</h1>
+<h1 align="center">Hi 👋, I'm Zehra Bhojani</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-- 🌱 I’m currently learning and doing internship **react and**
+- 🌱 I’m currently learning and doing internship on **react**
 
 - 💬 Ask me about **react and angular**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/zehra-bhojani-459b53229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/zehra-bhojani-459b53229" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/zehra-bhojani-459b53229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/zehra-bhojani-459b53229" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ze_hraa?igsh=mwv3mgnyzju1ethvoq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ze_hraa?igsh=mwv3mgnyzju1ethvoq==" height="30" width="40" /></a>
 </p>
 
