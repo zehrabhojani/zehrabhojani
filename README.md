@@ -32,8 +32,9 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://github.com/zehrabhojani/objectdetection" target="_blank">Object Detection Using Yolo V3</a> - An Object Detection Using Yolo V3 model.
-<a href="https://github.com/zehrabhojani/InventoryManagementSystem" target="_blank">Inventory Management System</a> - An inventory management application built with Python and Tkinter.
+- <a href="https://github.com/zehrabhojani/objectdetection" target="_blank">Object Detection Using Yolo V3</a> - An Object Detection Using Yolo V3 model.
+<br>
+- <a href="https://github.com/zehrabhojani/InventoryManagementSystem" target="_blank">Inventory Management System</a> - An inventory management application built with Python and Tkinter.
 
 
 </p>
