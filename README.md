@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning and doing internship on **React**
 
-- 💬 Ask me about **React and Angular**
+- 💬 Ask me about **React and Web Development**
 
 - 📫 How to reach me **bhojanizehra99@gmail.com**
 
