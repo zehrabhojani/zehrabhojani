@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zehra Bhojani</h1>
-<h3 align="center">A passionate Python developer from India</h3>
 
-- 🌱 I’m currently learning and doing internship on **React**
+- 🌱 I’m currently working in **Cognizant as Programmer Analyst**
 
-- 💬 Ask me about **React and Web Development**
+- 💬 I am **Middleware Engineer**
 
 - 📫 How to reach me **bhojanizehra99@gmail.com**
 
